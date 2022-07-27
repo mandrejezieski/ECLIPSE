@@ -1,0 +1,30 @@
+package exercicio001;
+
+import java.util.Scanner;
+
+public class exercicio001{
+	 public static void main(String[] args) {
+	        try (Scanner scan = new Scanner(System.in)) {
+				String nome;
+				int idade;
+				boolean continuar;
+
+				while(continuar = true) {
+				    System.out.println("Nome: ");
+				    nome = scan.next();
+				    System.out.println(nome);
+				    if (nome.equals("0")) break;
+
+				    System.out.println("Idade: ");
+				    idade = scan.nextInt();
+				    
+				    System.out.println("Quer continuar? ");
+				    System.out.println("Digite true se sim e false para não.");
+				    continuar = scan.nextBoolean();
+				}
+			}
+	        
+	        System.out.println("Continua aqui...");
+
+	    }
+}
