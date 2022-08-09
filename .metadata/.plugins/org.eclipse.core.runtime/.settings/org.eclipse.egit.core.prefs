@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=E\:\\ECLIPSE\\repository2\\.git;E\:\\ECLIPSE\\repository\\.git;E\:\\ECLIPSE\\.git;
-GitRepositoriesView.GitDirectories.relative=repository2\\.git;repository\\.git;.git;
+GitRepositoriesView.GitDirectories=E\:\\ECLIPSE\\repository2\\.git;E\:\\ECLIPSE\\repository\\.git;E\:\\REPOSITORIOS_GIT\\.git;E\:\\ECLIPSE\\.git;
+GitRepositoriesView.GitDirectories.relative=repository2\\.git;repository\\.git;E\:\\REPOSITORIOS_GIT\\.git;.git;
 core_defaultRepositoryDir=E\:\\ECLIPSE
 core_ssh_default_agent=\\\\.\\pageant
 eclipse.preferences.version=1
